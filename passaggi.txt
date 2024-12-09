@@ -1,1 +1,5 @@
-Seguire il tutorial https://medium.com/@mahijain9211/license-plate-detection-from-video-files-using-yolo-and-easyocr-6b647f0c94d5
+1) Download VSC
+2) Download 3.8 <=  Python version <= 3.11
+3) Seguire il tutorial https://medium.com/@mahijain9211/license-plate-detection-from-video-files-using-yolo-and-easyocr-6b647f0c94d5
+4) Caricare un video in cui si vede un'auto con targa in formato .mp4 nella cartella del progetto
+5) Modificare stringa bestfloat32.tflite con il nome del tuo file bestfloat32 in caso tu l'abbia cambiato in precedenza
